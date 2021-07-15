@@ -1,0 +1,6 @@
+{	
+    "clientId":"...",
+    "secretOrPrivateKey":"...",
+    "audience":"",
+    "user":"..."
+}
