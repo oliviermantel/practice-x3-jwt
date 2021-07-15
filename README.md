@@ -2,8 +2,8 @@
 
 ## Install
 ```bash
-$ git clone https://github.com/oliviermantel/graphql-server.git omantel-graphql-server
-$ cd omantel-graphql-server
+$ git clone https://github.com/oliviermantel/practice-x3-jwt.git
+$ cd practice-x3-jwt
 $ npm i 
 ```
 
