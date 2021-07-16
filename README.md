@@ -1,8 +1,7 @@
 # How to easily recover a token (JSON WEB Token)
 
-## Install
+## Install local repo
 ```bash
-$ git clone https://github.com/oliviermantel/practice-x3-jwt.git
 $ cd practice-x3-jwt
 $ npm i 
 ```
