@@ -25,7 +25,7 @@ $ npm run test
 
 __"audience"__ is not mandatory. You can less empty
 
-### File test/get-token.test.js
+### File test/get-token.test.ts
   
 ```js
 import {getToken,Payload,Options } from '../src';
